@@ -2,6 +2,7 @@
  - Criei este projeto para praticar consumo de APIS.
  - Retorna algumas informações de um usuario do github com base em seu nome
 
+## APIs
 - **Github API** - Receber informações do usuario ([site](https://docs.github.com/en/rest/users))
 
 # Pré-requisitos
