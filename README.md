@@ -1,4 +1,4 @@
-# Tasque-manager
+# Github-user-info
  - Criei este projeto para praticar consumo de APIS.
  - Retorna algumas informações de um usuario do github com base em seu nome
 
